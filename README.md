@@ -10,4 +10,4 @@ Usage: python checker.py
 
 Example: 
 
-![Example1](Example1.jpeg?raw=true "Example 1")
+!<img src="Example1.jpeg" width="48">
