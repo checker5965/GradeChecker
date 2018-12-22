@@ -10,4 +10,4 @@ Usage: python checker.py
 
 Example: 
 
-![Figure 1-1](https://imgur.com/a/LBzQNRd?raw=true "Example 1")
+![Example1](Example1?raw=true "Example 1")
