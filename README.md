@@ -10,4 +10,4 @@ Usage: python checker.py
 
 Example: 
 
-![Example1](Example1?raw=true "Example 1")
+![Example1](Example1.jpeg?raw=true "Example 1")
