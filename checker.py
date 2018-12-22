@@ -12,9 +12,9 @@ from selenium.common.exceptions import NoSuchElementException
 driver = wd.Chrome('''PATH FOR CHROME DRIVER''')
 driver.get("https://lms.ashoka.edu.in/Contents/Grades/ViewGrades.aspx")
 
-time.sleep(30)
-
 num = input("Number of Courses (including co-curriculars): ")
+
+time.sleep(60)
 
 courses = {}
 subjects = []
