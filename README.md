@@ -10,4 +10,4 @@ Usage: python checker.py
 
 Example: 
 
-!<img src="Example1.jpeg" width="48">
+<img src="Example1.jpeg" width="120">
