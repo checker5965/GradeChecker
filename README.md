@@ -9,5 +9,6 @@ Python 2.7 and other dependencies, such as Selenium are required.
 Usage: python checker.py
 
 Example: 
-
-<img src="Example1.jpeg" width="120">
+<p align = "center">
+  <img src="Example1.jpeg" width="160">
+</p>
