@@ -7,3 +7,7 @@ You need to type in your E-mail and number of courses. Also, the script sleeps f
 Python 2.7 and other dependencies, such as Selenium are required.
 
 Usage: python checker.py
+
+Example: 
+
+![Figure 1-1](https://imgur.com/a/LBzQNRd "Example 1")
